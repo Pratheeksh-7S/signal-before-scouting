@@ -51,3 +51,5 @@ The competition data cannot be shared here. To run the analysis:
 ## Author
 
 **Pratheeksh** — Electronics & Communication Engineering student, Atria Institute of Technology, Bengaluru · B.S. Data Science & AI, BITS Pilani
+   
+   ⭐ Submitted to the NFL Big Data Bowl 2027 (University Track), October 2026.
